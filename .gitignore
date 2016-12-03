@@ -1,0 +1,13 @@
+Library/
+Temp/
+obj/
+UnityVS/
+
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.apk
+*.suo
+*~
+*.DotSettings
